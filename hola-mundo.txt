@@ -1,5 +1,6 @@
 Здравствуй, мир!
 
+master was here
 
 Здесь был Петя
 Vasya was here!
